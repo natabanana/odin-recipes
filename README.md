@@ -1,3 +1,3 @@
-My first html website with some of my favourite meal prep recipes
+My first html website with some all time classic egg based recipes
 
 
